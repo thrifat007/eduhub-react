@@ -3,9 +3,9 @@ This website is an online educational platfrom.
 
 ## website link
 
-Visit the website by clicking this link: [Edu-hub](https://eduhub-react.netlify.app/home)
+Visit the website by clicking this link: [Edu-hub](https://eduhub-react.netlify.app/)
 
-![alt text](https://i.imgur.com/OSCJdZj.png)
+![alt text](https://i.imgur.com/GTKjSVy.png)
 
 
 
