@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "https://image.freepik.com/free-photo/business-data-analysis_53876-95296.jpg",
+        "course_name": "Data Analysis Course 2021",
+        "mentor": "Cilka Pepys",
+        "mentor_email": "cpepys0@indiatimes.com",
+        "schedule": "22-Feb-2021",
+        "course_description" : "Data Analysis with Pandas and Python introduces you to the popular Pandas library built on top of the Python programming language. Pandas is a powerhouse tool that allows you to do anything and everything with colossal data sets -- analyzing, organizing, sorting, filtering, pivoting, aggregating, munging, cleaning, calculating, and more! Over the course of more than 19 hours, I'll take you step-by-step through Pandas, from installation to visualization! We'll cover hundreds of different methods, attributes, features, and functionalities packed away inside this awesome library. We'll dive into tons of different datasets, short and long, broken and pristine, to demonstrate the incredible versatility and efficiency of this package."
+    },
+    {
+        "id": 2,
+        "image": "https://image.freepik.com/free-photo/marketing-ideas-share-research-planning-concept_53876-127431.jpg",
+        "course_name": "Digital Marketing & SEO 2021",
+        "mentor": "Yvette Iveson",
+        "mentor_email": "yiveson1@disqus.com",
+        "schedule": "05-Jan-2021",
+        "course_description": "Hello there! I am an online instructor & business advisor teaching self-development, online business and marketing with video courses. I started selling stuff at a young age and my entrepreneur's spirit stayed with me. I now teach and help people at reaching the next level and moving forward in business since this is what I studied and love!"
+    },
+    {
+        "id": 3,
+        "image": "https://image.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg",
+        "course_name": "Web Development Course 2021",
+        "mentor": "Scottie Henri",
+        "mentor_email": "shenri2@amazon.com",
+        "schedule": "23-Oct-2020",
+        "course_description": "All of my courses are 'learn-by-doing': no boring endless lectures with Powerpoints, only live, interactive coding examples. In this course we'll build one massive web application that profiles the advanced features of React, Redux, Express, and Mongo.  By putting each concept into a real app, you'll get a better idea of when to use each unique and powerful feature."
+    },
+    {
+        "id": 4,
+        "image": "https://image.freepik.com/free-vector/concept-big-data-storage-backup-isometric-icon-server-room-database-data-center_39422-919.jpg",
+        "course_name": "Data Processing & Big Data Course",
+        "mentor": "Tadd Dudill",
+        "mentor_email": "tdudill3@cbc.ca",
+        "schedule": "19-May-2021",
+        "course_description": "In this course you will build MULTIPLE practical systems using natural language processing, or NLP - the branch of machine learning and data science that deals with text and speech. This course is not part of my deep learning series, so it doesn't contain any hard math - just straight up coding in Python. All the materials for this course are FREE."
+    },
+    {
+        "id": 5,
+        "image": "https://image.freepik.com/free-vector/data-science-programming_39422-1055.jpg",
+        "course_name": "Data Science and Programming Course 2021",
+        "mentor": "Clim Vernham",
+        "mentor_email": "cvernham4@creativecommons.org",
+        "schedule": "28-Nov-2020",
+        "course_description": "Are you ready to start your path to becoming a Data Scientist! This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms! Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems! This course is designed for both beginners with some programming experience or experienced developers looking to make the jump to Data Science!"
+    },
+    {
+        "id": 6,
+        "image": "https://image.freepik.com/free-vector/organic-flat-computer-programming-illustration_23-2148955256.jpg",
+        "course_name": "Web Development using PHP 2021",
+        "mentor": "Nikos Mion",
+        "mentor_email": "nmion5@etsy.com",
+        "schedule": "31-Jul-2021",
+        "course_description": "You will learn all the core PHP concepts from scratch with examples; I will cover all the topics from PHP5 (Object-oriented programming). You will also learn the latest ideas of PHP7; I will explain all the SQL concepts so you can easily understand how SQL works.You will learn the world's powerful framework front-end framework Bootstrap, and you can also gain one PHP framework, which is Codeigniter, from scratch. What about PHP framework..? We cover a PHP-based framework, the Codeigniter 3, to easily understand how you can interact with a Framework."
+    },
+    {
+        "id": 7,
+        "image": "https://image.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg",
+        "course_name": "JavaScript Course 2021",
+        "mentor": "Aldo Pawnsford",
+        "mentor_email": "apawnsford6@wix.com",
+        "schedule": "09-Nov-2020",
+        "course_description": "My name is Jonas, I'm an experienced web developer and designer, and one of Udemy's top instructors. I have been teaching this bestselling course since 2016 to over 400,000 developers, always listening to feedback and understanding exactly how students actually learn.Recently, I took all my teaching experience to build this new and greatly improved JavaScript course. It's now the best and most in-depth JavaScript course that you will find on Udemy (and maybe the entire internet). I know how students learn JavaScript and what they need in order to master it. And with that knowledge, I designed the ideal course curriculum. It's a unique blend of real-world projects, deep explanations, theory lectures, and challenges, that will take you from zero to an expert and confident JavaScript developer in just a couple of weeks."
+    },
+    {
+        "id": 8,
+        "image": "https://image.freepik.com/free-vector/marketing-social-media-background-with-funny-elements_1361-1264.jpg",
+        "course_name": "Digital Marketing Course",
+        "mentor": "Tiphany Salmoni",
+        "mentor_email": "tsalmoni7@privacy.gov.au",
+        "schedule": "24-Jan-2021",
+        "course_description": "Are you ready to learn about the world of Digital Marketing & Digital Advertising? Are you ready to learn about the hundreds of companies outside of Google and Facebook which control ads you see on your computer, phones, and tablets? Are you ready to understand the terms, pricing models, ad units, and everything else you need to succeed in the digital advertising space? Then you’re at the right place!"
+    },
+    {
+        "id": 9,
+        "image": "https://image.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg",
+        "course_name": "UI UX Design Course 2021",
+        "mentor": "Pia McKmurrie",
+        "mentor_email": "pmckmurrie8@facebook.com",
+        "schedule": "03-Jun-2021",
+        "course_description": "Hi there! My name is Dan & I’m an Adobe Certified Instructor. I’m here to help you learn Adobe XD efficiently and comprehensively. XD is a fantastic design tool used by industry professionals to product high quality & functional mockups. By the end of this course, you will be able to produce practical and effective User Experience (UX) and User Interface (UI) designs."
+    },
+    {
+        "id": 10,
+        "image": "https://image.freepik.com/free-psd/graphic-design-landing-page-template_23-2148637457.jpg",
+        "course_name": "Graphics Design Course, Become a PRO!",
+        "mentor": "Rafi Raeside",
+        "mentor_email": "rraeside9@hexun.com",
+        "schedule": "01-Dec-2020",
+        "course_description": "My name is Stephen Koel Soren and I am a graphics and web expert. This is a combo course for learning adobe premiere pro cc and adobe photoshop for learning video editing and graphics design. If you are absolute beginner or if you never open Adobe Premiere pro cc and Adobe Photoshop cc before than this is a perfect class for you. This is a beginner level class so so together me you we will learn Adobe Premiere pro and Photoshop from basic to advance. This is a project base class so you will be able to apply your learned skill in real time class project. You will learn from this class about every basic lesson of video editing in Adobe Premiere Pro CC:"
+    }
+]

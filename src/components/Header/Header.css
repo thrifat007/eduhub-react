@@ -1,0 +1,32 @@
+.header{
+    text-decoration: none;
+    margin-right: 30px;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+.header:hover{
+    color: #FF0075;
+}
+.logo{
+    color: #FF0075;;
+    font-size: 55px;
+    font-weight: 700;
+    margin-right: 200px;
+    
+}
+.awesomelogo{
+    font-size: 20px;
+    margin-top: 8px;
+    color:#FF0075;;
+}
+
+#nav-dropdown{
+    padding: 0;
+}
+
+#nav-dropdown:hover{
+    color: #FF0075;
+    
+}
+
